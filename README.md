@@ -2,5 +2,6 @@
 
 -Site desenvolvido com HTML, CSS e Bootstrap na aula do Bootcamp HTML Developer da Digital Innovation One.
 
-![image](https://user-images.githubusercontent.com/65796536/126832347-c6841d51-af6e-42c2-bfc8-7c8e1a20e614.png)
+![image](https://user-images.githubusercontent.com/65796536/126832721-e709147c-c38f-49df-b7c3-46152d69bdf0.png)
+
 
